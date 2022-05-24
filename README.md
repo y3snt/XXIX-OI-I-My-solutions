@@ -10,5 +10,6 @@ My solutions to the first stage of the Polish Olympiad in Informatics
    
 #### mon.cpp - Montażysta
    Link to problem (PL): https://sio2.mimuw.edu.pl/c/oi29-1/p/mon/
+   
 #### imp.cpp - Impreza krasnali
    Link to problem (PL): https://sio2.mimuw.edu.pl/c/oi29-1/p/imp/
