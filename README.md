@@ -1,4 +1,4 @@
-# XXIX-OI-I-My-solutions
+# XXIX OI I My solutions
 
 My solutions to the first stage of the Polish Olympiad in Informatics
 
